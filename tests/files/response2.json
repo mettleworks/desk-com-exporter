@@ -1,0 +1,15 @@
+{
+  "page": 1,
+  "total_entries": 2,
+  "_links": {},
+  "_embedded": {
+    "entries": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      }
+    ]
+  }
+}
