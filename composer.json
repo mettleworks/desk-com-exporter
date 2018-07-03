@@ -1,6 +1,7 @@
 {
   "name": "mettleworks/desk-com-exporter",
   "description": "A package to export Desk.com customer and case data.",
+  "license": "MIT",
   "require": {
     "php": ">=5.6",
     "guzzlehttp/guzzle": "~6.0"
