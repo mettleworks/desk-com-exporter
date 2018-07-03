@@ -52,6 +52,7 @@ $exporter->fetchCases(function($customers) use(&$customerList)
 
     var_dump(count($customerList));
 });
+
 ```
 
 ### Testing
