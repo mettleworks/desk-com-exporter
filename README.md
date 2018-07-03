@@ -14,8 +14,6 @@ composer require mettleworks/desk-com-exporter
 ### Code Example
 
 ```php 
-<?php
-
 require 'vendor/autoload.php';
 
 $deskUrl = 'https://YOUR-ACCOUNT.desk.com';
