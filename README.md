@@ -1,8 +1,10 @@
 ## Desk.com customer and case data exporter
 
 [![Build Status](https://travis-ci.org/mettleworks/desk-com-exporter.svg)](https://travis-ci.org/mettleworks/desk-com-exporter)
-[![Latest Stable Version](https://poser.pugx.org/mettleworks/desk-com-exporter/v/stable.svg)](https://packagist.org/packages/mettleworks/desk-com-exporter) 
-[![License](https://poser.pugx.org/mettleworks/desk-com-exporter/license.svg)](https://packagist.org/packages/mettleworks/desk-com-exporter)
+[![Latest Stable Version](https://poser.pugx.org/mettleworks/desk-com-exporter/v/stable)](https://packagist.org/packages/mettleworks/desk-com-exporter)
+[![Latest Unstable Version](https://poser.pugx.org/mettleworks/desk-com-exporter/v/unstable)](https://packagist.org/packages/mettleworks/desk-com-exporter)
+[![License](https://poser.pugx.org/mettleworks/desk-com-exporter/license)](https://packagist.org/packages/mettleworks/desk-com-exporter)
+[![composer.lock](https://poser.pugx.org/mettleworks/desk-com-exporter/composerlock)](https://packagist.org/packages/mettleworks/desk-com-exporter)
 
 ### Installation
 
