@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.org/mettleworks/desk-com-exporter.svg)](https://travis-ci.org/mettleworks/desk-com-exporter)
 [![Latest Stable Version](https://poser.pugx.org/mettleworks/desk-com-exporter/v/stable.svg)](https://packagist.org/packages/mettleworks/desk-com-exporter) 
-[![Total Downloads](https://poser.pugx.org/mettleworks/desk-com-exporter/downloads)](https://packagist.org/packages/mettleworks/desk-com-exporter)
 [![License](https://poser.pugx.org/mettleworks/desk-com-exporter/license.svg)](https://packagist.org/packages/mettleworks/desk-com-exporter)
 
 ### Installation
