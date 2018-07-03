@@ -33,9 +33,9 @@ $exporter = new \Mettleworks\DeskComExporter\DeskComExporter($client);
 
 $caseList = [];
 
-$exporter->fetchCases(function($customers) use(&$caseList)
+$exporter->fetchCases(function($cases) use(&$caseList)
 {
-    foreach($customers['_embedded']['entries'] as $entry)
+    foreach($cases['_embedded']['entries'] as $entry)
     {
         $caseList[$entry['id']] = true;
     }
@@ -45,7 +45,7 @@ $exporter->fetchCases(function($customers) use(&$caseList)
 
 $customerList = [];
 
-$exporter->fetchCases(function($customers) use(&$customerList)
+$exporter->fetchCustomers(function($customers) use(&$customerList)
 {
     foreach($customers['_embedded']['entries'] as $entry)
     {
