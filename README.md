@@ -68,7 +68,7 @@ vendor/bin/phpunit
 
 ### Security
 
-If you discover any security related issues, please email aivis@mettle.io.
+If you discover any security related issues, please contact us https://mettle.io/
 
 ### License
 
